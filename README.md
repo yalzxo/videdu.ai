@@ -1,6 +1,14 @@
 
 # 🐍 VidEdu - AI-Powered Python Learning Platform 🚀  
 
+🚀 Hackathon Project by:
+
+👤 Guru Divya Darshini U
+👤 Srinithi A
+👤 Yalini Madan
+👤 Navanthiga J M
+
+
 ## 🌟 Overview  
 VidEdu is an **AI-driven Python learning platform** that automatically generates **educational videos**, **adaptive quizzes**, and **learning insights**. It creates **tutorials with animations, scripts, and voice narration** to make Python learning interactive and effective.
 
