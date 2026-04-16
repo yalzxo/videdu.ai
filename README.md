@@ -134,3 +134,9 @@ A: Restart ngrok by running `ngrok http 8501` again.
 
 **Q: How do I get my Gemini API key?**  
 A: Sign up on Google AI’s Gemini API portal and generate a key.
+
+**My Contribution**
+
+Worked on building the AI-driven content generation pipeline using Google Gemini API for script generation
+Integrated Manim and gTTS for video creation with animations and narration
+Contributed to developing the Streamlit-based interface and overall system integration
